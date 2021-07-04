@@ -12,5 +12,8 @@ for ex:
 # PREREQUISITES
 ### please allow the app with camera permission.
 
+# Download link:
+https://drive.google.com/file/d/1v3kKdis8Zm9YSm9sLPiEFSQmuEuk4AN3/view?usp=sharing
+
 
 
